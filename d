@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 vijay 
-=======
 dattu
->>>>>>> dattu
